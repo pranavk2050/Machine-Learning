@@ -141,3 +141,9 @@ save_model.py:
    Huge shoutout goes to hunglc007 and nwojke for creating the backbones of this repository:
   * [tensorflow-yolov4-tflite](https://github.com/hunglc007/tensorflow-yolov4-tflite)
   * [Deep SORT Repository](https://github.com/nwojke/deep_sort)
+
+
+
+Download [yolov4 weights](https://drive.google.com/file/d/15sLT-PijW2PvHJNXQ5nvh20fV2ZkXWbm/view?usp=sharing) save to data folder 
+Download [variables.data-00000-of-00001](https://drive.google.com/file/d/1PHNs8zSG9YJ-2uaZrhnWebRrKJh2ecCL/view?usp=sharing) save to checkpoints/yolov4 folder
+
