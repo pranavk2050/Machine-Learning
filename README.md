@@ -144,6 +144,7 @@ save_model.py:
 
 
 
-Download [yolov4 weights](https://drive.google.com/file/d/15sLT-PijW2PvHJNXQ5nvh20fV2ZkXWbm/view?usp=sharing) save to data folder 
+Download [yolov4 weights](https://drive.google.com/file/d/15sLT-PijW2PvHJNXQ5nvh20fV2ZkXWbm/view?usp=sharing) save to data folder.
+
 Download [variables.data-00000-of-00001](https://drive.google.com/file/d/1PHNs8zSG9YJ-2uaZrhnWebRrKJh2ecCL/view?usp=sharing) save to checkpoints/yolov4 folder
 
